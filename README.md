@@ -28,7 +28,7 @@
 
 ## License & Certification
 
-- **AWS Certified Solutions Architect – Associate** 
+- **•	Microsoft Certified: Azure AI** 
 - **리눅스 마스터 2급**
 
 <br>
@@ -41,10 +41,5 @@
 
 <br>
 
-## GitHub Stats
 
-![leepg038292's GitHub stats](https://github-readme-stats.vercel.app/api?username=leepg038292&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=495)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leepg038292&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495)
-
-<br>
 
