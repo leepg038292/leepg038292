@@ -30,7 +30,7 @@
 
 ## License & Certification
 
-- **•	Microsoft Certified: Azure AI** 
+- **Microsoft Certified: Azure AI** 
 - **리눅스 마스터 2급**
 
 <br>
