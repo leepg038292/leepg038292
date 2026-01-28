@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**leepg038292/leepg038292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06A8F7&background=FFFFFF00&width=435&lines=Gang's+GitHub)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+
+<br>
+
+## Project
+
+| Project | Description | Team | Period |
+|:--------|:------------|:----:|:------:|
+| [**내 맘대로 캠페인**](https://github.com/hskhsmm/event-driven-batch-kafka-system) | Kafka와 배치를 활용한 고성능 선착순 시스템 | 2인 | 2025.12 ~ 2026.01 |
+| [**Way To Earth**](https://github.com/WayToEarth-Team/WayToEarth_BE) | 러닝 기록을 가상 여정·커뮤니티로 확장한 소셜 러닝 플랫폼 | 캡스톤 | 2025.08 ~ 2025.12 |
+| [**MOVA**](https://github.com/hskhsmm/MOVA-BE) | AI 기반 맞춤형 영화 큐레이션 및 커뮤니티 서비스 | 팀 | 2025.10 ~ 2025.11 |
+
+<br>
+
+## License & Certification
+
+- **AWS Certified Solutions Architect – Associate** 
+- **리눅스 마스터 2급**
+
+<br>
+
+## Activities
+
+| Period | Organization | Role |
+|:------:|:------------|:-----|
+| 2024.06 ~ 2024.10 | **MS AI School 4기** | Backend Developer |
+
+<br>
+
+## GitHub Stats
+
+![leepg038292's GitHub stats](https://github-readme-stats.vercel.app/api?username=leepg038292&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=495)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leepg038292&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495)
+
+<br>
+
