@@ -29,13 +29,4 @@
 
 <br>
 
-## Activities
-
-| Period | Organization | Role |
-|:------:|:------------|:-----|
-| 2024.06 ~ 2024.10 | **MS AI School 4기** | Backend Developer |
-
-<br>
-
-
 
